@@ -42,19 +42,20 @@ B. 팀 배틀
 -속성 (종류)
 -점수 (카드마다 다름)
 
-특수 카드는 2종류가 있다.
+특수 카드는 3종류가 있다.
 
 -환영(Illusion)
 -변환(Transfer)
+-분리(Divide)
 
 
 2-1. 레벨과 속성
 
 레벨은 1부터 3까지 있으며 레벨마다 부여되는 속성은 각자 다르다.
 
-레벨 1 : 불(Fire), 물(Water), 땅(Earth), 바람(Wind)
-레벨 2 : 얼음(Ice), 번개(Lightning), 자연(Nature)
-
+레벨 1 : 불(Fire), 물(Water), 땅(Earth), 공기(Air)
+레벨 2 : 얼음(Ice), 번개(Lightning), 자연(Nature), 금속(Metal), 무(Void), 공간(Area)
+레벨 3 : 어둠(Dark), 빛(Light), 검정(Black), 하양(White), 시간(Time), 차원(Dimen)
 
 
 
