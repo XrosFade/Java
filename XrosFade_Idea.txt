@@ -1,8 +1,10 @@
-=Title=
+=Title=(not Dicided)
 
 Elements Illusion / Illusion Elements
 
-Illusion of Elements
+Combine of Elements
+Combination
+Elements
 
 =Rule=
 
@@ -44,22 +46,32 @@ B. 팀 배틀
 
 특수 카드는 3종류가 있다.
 
--환영(Illusion)
--변환(Transfer)
--분리(Divide)
-
+-환영(Illusion) : 공격시 페이크, 방어시 절대방어로 이용 가능함
+-변환(Transform) : 특정 카드를 해당 카드와 같은 레벨의 속성으로 변환할 수 있음
+-분리(Division) : 상위 레벨의 카드를 이미 사용된 카드 목록에서 해당 카드의 조합요소로 쓰이는 하위 레벨의 카드로 변환해서 가져올 수 있음.
 
 2-1. 레벨과 속성
 
 레벨은 1부터 3까지 있으며 레벨마다 부여되는 속성은 각자 다르다.
 
 레벨 1 : 불(Fire), 물(Water), 땅(Earth), 공기(Air)
-레벨 2 : 얼음(Ice), 번개(Lightning), 자연(Nature), 금속(Metal), 무(Void), 공간(Area)
-레벨 3 : 어둠(Dark), 빛(Light), 검정(Black), 하양(White), 시간(Time), 차원(Dimen)
+레벨 2 : 얼음(Ice), 전기(Energy), 자연(Nature), 금속(Metal), 증기(Steam), 바람(Wind)
+레벨 3 : 어둠(Dark), 빛(Light), 생명(Life), 하양(White), 시간(Time), 차원(Dimen)
 
+2-2. 레벨 업에 대한 조합식
 
+레벨 2
 
+불(Fire) + 물(Water) = 증기(Steam)
+불(Fire) + 땅(Earth) = 금속(Metal)
+불(Fire) + 공기(Air) = 전기(Energy)
+물(Water) + 땅(Earth) = 자연(Nature)
+물(Water) + 공기(Air) = 얼음(Ice)
+땅(Earth) + 공기(Air) = 바람(Wind)
 
+레벨 3
+
+자연(Nature) + 물(Water) + 공기(Air) = 생명(Life)
 
 
 
