@@ -4,7 +4,8 @@ Elements Illusion / Illusion Elements
 
 Combine of Elements
 Combination
-Elements
+
+Spheres
 
 =Rule=
 
@@ -36,42 +37,62 @@ B. 팀 배틀
 > 코스트하여 제시한 시점에서, 팀 정리가 반드시 이루어져야 한다.
 > 각 플레이어의 핸드에 모인 점수와 레벨을 합산하여 팀 스코어에 합산한다.
 
+
 2. 카드의 구성
 
 기본 카드는 3개의 능력치가 존재한다.
 
 -레벨 (1~3)
--속성 (종류)
+-스피어(Sphere) (종류)
 -점수 (카드마다 다름)
 
-특수 카드는 3종류가 있다.
+능력 카드는 3종류가 있다.
 
 -환영(Illusion) : 공격시 페이크, 방어시 절대방어로 이용 가능함
--변환(Transform) : 특정 카드를 해당 카드와 같은 레벨의 속성으로 변환할 수 있음
+-변환(Transform) : 특정 카드를 해당 카드와 같은 레벨의 다른 속성으로 변환할 수 있음
 -분리(Division) : 상위 레벨의 카드를 이미 사용된 카드 목록에서 해당 카드의 조합요소로 쓰이는 하위 레벨의 카드로 변환해서 가져올 수 있음.
 
-2-1. 레벨과 속성
+2-1. 레벨과 스피어
 
-레벨은 1부터 3까지 있으며 레벨마다 부여되는 속성은 각자 다르다.
+레벨은 1부터 3까지 있으며 레벨마다 부여되는 스피어는 각자 다르다.
 
 레벨 1 : 불(Fire), 물(Water), 땅(Earth), 공기(Air)
-레벨 2 : 얼음(Ice), 전기(Energy), 자연(Nature), 금속(Metal), 증기(Steam), 바람(Wind)
-레벨 3 : 어둠(Dark), 빛(Light), 생명(Life), 하양(White), 시간(Time), 차원(Dimen)
+레벨 2 : 얼음(Ice), 플라즈마(Plasma), 불꽃(Flame), 금속(Metal), 풀(Grass), 바람(Wind)
+레벨 3 : 검정(Black), 하양(White)
 
-2-2. 레벨 업에 대한 조합식
+2-2. 각 레벨 조합식
 
 레벨 2
 
-불(Fire) + 물(Water) = 증기(Steam)
-불(Fire) + 땅(Earth) = 금속(Metal)
-불(Fire) + 공기(Air) = 전기(Energy)
-물(Water) + 땅(Earth) = 자연(Nature)
-물(Water) + 공기(Air) = 얼음(Ice)
+불(Fire) + 물(Water) = 플라즈마(Plasma)
+불(Fire) + 땅(Earth) = 금속(Metal) 
+불(Fire) + 공기(Air) = 불꽃(Flame)
+물(Water) + 땅(Earth) = 풀(Grass) 
+물(Water) + 공기(Air) = 얼음(Ice) 
 땅(Earth) + 공기(Air) = 바람(Wind)
 
 레벨 3
 
-자연(Nature) + 물(Water) + 공기(Air) = 생명(Life)
+불꽃(Flame) + 풀(Grass) + 바람(Wind) = 하양(White)
+얼음(Air) + 플라즈마(Plasma) + 금속(Metal) = 검정(Black)
+
+
+2-3. 능력 카드
+
+능력 카드는 능력 카드 뭉치에서
+
+
+
+2-4. 특수 조합
+
+
+3. 게임의 흐름
+
+A 타입
+
+-게임이 시작되면, 각 플레이어는 플레이어수 + 4 만큼의 카드를 손에 든다.
+
+
 
 
 
