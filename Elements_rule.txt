@@ -227,10 +227,13 @@ ex) 1 Card + 1 Card (X)
 > Cost 10, 단일대상 12데미지. 공기 속성에 +2. 물 속성에 1/2
 [WRN]마레(Mare) = L2 Water + L2 Water
 > Cost 6, 2인대상 4데미지. 공기 속성에 막힘. 불 속성에 +2 
+[ESC]뿌리 묶기(Binding Roots) = L2 Earth + L1 Water
+> Cost 4, 단일대상 2데미지 + 3턴 지속. 공기 속성에 막힘. 불 속성에 -1
 
 
 [NRP]저격(Snipe) = L2 Air + L2 Earth
 > Cost 10, 단일대상 8데미지. 불 속성에 +2, 물 속성에 -2
+[]
 
 
 2-3-4. 3 Cards Skill
@@ -238,6 +241,7 @@ ex) 1 Card + 1 Card (X)
 [FRC]화염방사기(Flamethrower) = L1 Fire + L2 Fire + L2 Fire
 > Cost 11, 사용자 제외 8데미지. 불 속성에 -2. 공기, 땅 속성에 +2. 물 속성에 1/2
 [WRP]마네릴(Maneril)
+
 
 
 (S)대지진(Earthquake) = L3 Earth + L2 Earth + L1 Earth
